@@ -1,0 +1,13 @@
+##############################
+    Relatorio Demissional
+##############################
+Cargo: Asg
+Nome: Jorge Linhares
+CPF: 148.879.265-70
+Matrícula: 72.102-0
+Data de ingresso: 5/7/2005
+Data de demissão: 21/6/2023
+******************************
+Valor de rescisão: R$ 23706.4
+******************************
+Tempo de Trabalho: 17 anos, 10 meses e 46 dias

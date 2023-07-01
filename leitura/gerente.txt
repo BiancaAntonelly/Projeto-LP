@@ -1,0 +1,26 @@
+#########################################################
+GERENTE Nº: 0
+##### DADOS PESSOAIS #####
+Gustavo Luiz de Souza
+320.078.587-15
+1
+casado
+***** Endereço (cidade, cep, bairro, rua e numero) ****
+Natal
+59.875.745
+Tirol
+Dr. Antonio Souza
+678
+***** Data de nascimento (ano, mes, dia) ****
+1987
+8
+25
+##### DADOS FUNCIONAIS #####
+72.412-3
+1500
+1500
+0
+***** Data de ingresso (ano, mes, dia) ****
+2015
+6
+30

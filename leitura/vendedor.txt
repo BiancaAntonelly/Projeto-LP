@@ -1,0 +1,130 @@
+#########################################################
+VENDEDOR Nº: 0
+##### DADOS PESSOAIS #####
+Luiz de Souza
+320.078.587-15
+1
+casado
+***** Endereço (cidade, cep, bairro, rua e numero) ****
+Natal
+59.875.745
+Tirol
+Dr. Antonio Souza
+678
+***** Data de nascimento (ano, mes, dia) ****
+1987
+8
+25
+##### DADOS FUNCIONAIS #####
+72.412-3
+1500
+B
+0
+***** Data de ingresso (ano, mes, dia) ****
+2015
+6
+30
+#########################################################
+VENDEDOR Nº: 1
+##### DADOS PESSOAIS #####
+Suziane Maria
+895.562.415-09
+2
+casado
+***** Endereço (cidade, cep, bairro, rua e numero) ****
+Natal
+59.235.965
+Candelaria
+Luiz XV
+124
+***** Data de nascimento (ano, mes, dia) ****
+1993
+7
+20
+##### DADOS FUNCIONAIS #####
+72.123-7
+1500
+A
+1
+***** Data de ingresso (ano, mes, dia) ****
+2014
+4
+20
+#########################################################
+VENDEDOR Nº: 2
+##### DADOS PESSOAIS #####
+Alexandra Gonçalve Dias
+632.412.785-04
+1
+casado
+***** Endereço (cidade, cep, bairro, rua e numero) ****
+Natal
+59.874.150
+Planalto
+Pedro Borges
+1254
+***** Data de nascimento (ano, mes, dia) ****
+1986
+2
+3
+##### DADOS FUNCIONAIS #####
+72.874-1
+1500
+C
+3
+***** Data de ingresso (ano, mes, dia) ****
+2019
+5
+23
+#########################################################
+VENDEDOR Nº: 3
+##### DADOS PESSOAIS #####
+Guilherme Borba Dias
+012.874.523-45
+0
+solteiro
+***** Endereço (cidade, cep, bairro, rua e numero) ****
+Natal
+59.541.333
+Cidade Alta
+Ibirabuera Vieira
+2580
+***** Data de nascimento (ano, mes, dia) ****
+2000
+12
+5
+##### DADOS FUNCIONAIS #####
+72.125-6
+1500
+A
+0
+***** Data de ingresso (ano, mes, dia) ****
+2021
+2
+21
+#########################################################
+VENDEDOR Nº: 4
+##### DADOS PESSOAIS #####
+Paulo Herculano de Souza
+058.541.235-70
+0
+solteiro
+***** Endereço (cidade, cep, bairro, rua e numero) ****
+Natal
+59.541.111
+Alecrim
+Nevaldo Rocha
+3850
+***** Data de nascimento (ano, mes, dia) ****
+1990
+11
+27
+##### DADOS FUNCIONAIS #####
+72.254-6
+1500
+A
+2
+***** Data de ingresso (ano, mes, dia) ****
+2008
+12
+2

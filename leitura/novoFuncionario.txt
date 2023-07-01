@@ -1,0 +1,25 @@
+ASG
+##### DADOS PESSOAIS #####
+Pedro de Araujo
+658.897.745-45
+0
+solteiro
+***** Endereço (cidade, cep, bairro, rua e numero) ****
+Parnamirim
+59.874.152
+Passagem de areia
+Bela Morada
+290
+***** Data de nascimento (ano, mes, dia) ****
+1992
+7
+13
+##### DADOS FUNCIONAIS #####
+72.385-9
+1320
+0.05
+2
+***** Data de ingresso (ano, mes, dia) ****
+2017
+9
+30
