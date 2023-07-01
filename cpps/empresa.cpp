@@ -857,12 +857,12 @@ void Empresa::imprimirNovoFuncionarioConsole(std::string tipoFuncionario) {
     cout << "Data de nascimento: " << asgs[tam].getDataNascimento().dia << "/"
          << asgs[tam].getDataNascimento().dia << "/"
          << asgs[tam].getDataNascimento().ano << endl;
-    cout << "Matrícula" << asgs[tam].getMatricula() << endl;
-    cout << "Salário" << asgs[tam].getSalario() << endl;
-    cout << "Adicional de Insalubridade" << asgs[tam].getAdcionalInsabubridade()
-         << endl;
-    cout << "Dias de Faltas" << asgs[tam].getDiasFaltas() << endl;
-    cout << "Data de Ingresso" << asgs[tam].getDataingresso().dia << "/"
+    cout << "Matrícula: " << asgs[tam].getMatricula() << endl;
+    cout << "Salário: " << asgs[tam].getSalario() << endl;
+    cout << "Adicional de Insalubridade: "
+         << asgs[tam].getAdcionalInsabubridade() << endl;
+    cout << "Dias de Faltas: " << asgs[tam].getDiasFaltas() << endl;
+    cout << "Data de Ingresso: " << asgs[tam].getDataingresso().dia << "/"
          << asgs[tam].getDataingresso().mes << "/"
          << asgs[tam].getDataingresso().dia << endl;
 
@@ -882,12 +882,12 @@ void Empresa::imprimirNovoFuncionarioConsole(std::string tipoFuncionario) {
     cout << "Data de nascimento: " << vendedores[tam].getDataNascimento().dia
          << "/" << vendedores[tam].getDataNascimento().dia << "/"
          << vendedores[tam].getDataNascimento().ano << endl;
-    cout << "Matrícula" << vendedores[tam].getMatricula() << endl;
-    cout << "Salário" << vendedores[tam].getSalario() << endl;
-    cout << "Adicional de Insalubridade" << vendedores[tam].getTipoVendedor()
+    cout << "Matrícula: " << vendedores[tam].getMatricula() << endl;
+    cout << "Salário: " << vendedores[tam].getSalario() << endl;
+    cout << "Adicional de Insalubridade: " << vendedores[tam].getTipoVendedor()
          << endl;
-    cout << "Dias de Faltas" << vendedores[tam].getDiasFaltas() << endl;
-    cout << "Data de Ingresso" << vendedores[tam].getDataingresso().dia << "/"
+    cout << "Dias de Faltas: " << vendedores[tam].getDiasFaltas() << endl;
+    cout << "Data de Ingresso: " << vendedores[tam].getDataingresso().dia << "/"
          << vendedores[tam].getDataingresso().mes << "/"
          << vendedores[tam].getDataingresso().dia << endl;
 
@@ -907,12 +907,12 @@ void Empresa::imprimirNovoFuncionarioConsole(std::string tipoFuncionario) {
     cout << "Data de nascimento: " << gerentes[tam].getDataNascimento().dia
          << "/" << gerentes[tam].getDataNascimento().dia << "/"
          << gerentes[tam].getDataNascimento().ano << endl;
-    cout << "Matrícula" << gerentes[tam].getMatricula() << endl;
-    cout << "Salário" << gerentes[tam].getSalario() << endl;
+    cout << "Matrícula: " << gerentes[tam].getMatricula() << endl;
+    cout << "Salário: " << gerentes[tam].getSalario() << endl;
     cout << "Participação dos Lucros: " << gerentes[tam].getParticipacaoLucros()
          << endl;
-    cout << "Dias de Faltas" << gerentes[tam].getDiasFaltas() << endl;
-    cout << "Data de Ingresso" << gerentes[tam].getDataingresso().dia << "/"
+    cout << "Dias de Faltas: " << gerentes[tam].getDiasFaltas() << endl;
+    cout << "Data de Ingresso: " << gerentes[tam].getDataingresso().dia << "/"
          << gerentes[tam].getDataingresso().mes << "/"
          << gerentes[tam].getDataingresso().ano << endl;
   }
